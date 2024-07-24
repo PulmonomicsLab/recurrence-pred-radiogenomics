@@ -1,0 +1,5 @@
+Kernel	C	Min_Dec_Score	Max_Dec_Score	Threshold	Accuracy	Sensitivity	Specificity	F1-score	MCC	BA	Accuracy_bcv	Sensitivity_bcv	Specificity_bcv	F1-score_bcv	MCC_bcv	BA_bcv	Accuracy_blind	Sensitivity_blind	Specificity_blind	F1-score_blind	MCC_blind	BA_blind
+linear	1	-6.4	4.7	-0.5	0.662	0.653	0.665	0.513	0.287	0.659	0.539	0.555	0.531	0.433	0.081	0.543	0.487	0.469	0.495	0.368	-0.033	0.482
+linear	5	-6.4	4.7	-0.5	0.662	0.653	0.665	0.513	0.287	0.659	0.539	0.555	0.531	0.433	0.081	0.543	0.487	0.469	0.495	0.368	-0.033	0.482
+linear	10	-6.4	4.7	-0.5	0.662	0.653	0.665	0.513	0.287	0.659	0.539	0.555	0.531	0.433	0.081	0.543	0.487	0.469	0.495	0.368	-0.033	0.482
+linear	15	-6.4	4.7	-0.5	0.662	0.653	0.665	0.513	0.287	0.659	0.539	0.555	0.531	0.433	0.081	0.543	0.487	0.469	0.495	0.368	-0.033	0.482
